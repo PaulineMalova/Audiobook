@@ -1,0 +1,8 @@
+# Project depends on python3-tk and pdftotext
+
+# sudo apt-get install python3-setuptools python3-dev libpython3-dev
+# sudo apt-get update
+# sudo apt-get install build-essential libpoppler-cpp-dev pkg-config python-dev
+
+pdftotext==2.1.5
+gTTS==2.2.2
